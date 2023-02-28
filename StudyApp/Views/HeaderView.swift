@@ -2,7 +2,7 @@
 //  HeaderView.swift
 //  StudyApp
 //
-//  Created by Mariano on 27/02/23.
+//  Created by Bruno on 27/02/23.
 //
 
 import Foundation
@@ -20,7 +20,7 @@ class HeaderView: UIView {
     
     lazy var button: UIButton = {
        let button = UIButton()
-        button.setTitle("Botao", for: .normal)
+        button.setImage(UIImage(systemName: "magnifyingglass"), for: .normal)
         button.translatesAutoresizingMaskIntoConstraints = false
         return button
     }()
