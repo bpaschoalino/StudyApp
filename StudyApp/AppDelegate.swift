@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StudyApp
 //
-//  Created by Mariano on 27/02/23.
+//  Created by Bruno on 27/02/23.
 //
 
 import UIKit
